@@ -1,4 +1,3 @@
-word = input("Enter a word:")
-for i in range (1, 26):
-    print(word)
-print('rubaiya')
+var = input('Enter a word :')
+for i in range(1,51):
+    print(var)
